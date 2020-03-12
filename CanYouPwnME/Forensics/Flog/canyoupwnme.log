@@ -1,0 +1,1572 @@
+[Mon May 21 01:45:26 2012] [notice] caught SIGWINCH, shutting down gracefully
+[Fri Jul 10 13:02:23 2015] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Jul 10 13:05:04 2015] [error] [client 192.168.128.1] File does not exist: /var/www/favicon.ico
+[Fri Jul 10 13:05:04 2015] [error] [client 192.168.128.1] File does not exist: /var/www/robots.txt
+[Fri Jul 10 13:05:04 2015] [error] [client 192.168.128.1] File does not exist: /var/www/.git
+[Fri Jul 10 15:07:00 2015] [error] [client 192.168.128.1] File does not exist: /var/www/favicon.ico
+[Fri Jul 10 15:07:00 2015] [error] [client 192.168.128.1] File does not exist: /var/www/favicon.ico
+[Mon Jul 11 02:22:52 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Mon Jul 11 02:37:54 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Mon Jul 11 03:38:30 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Thu Jul 21 16:16:44 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Thu Jul 21 16:25:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Thu Jul 21 16:28:16 2016] [error] [client 192.168.237.1] File does not exist: /var/www/Rapid7
+[Thu Jul 21 16:28:16 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.jsp
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/reviews
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.cfm
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.nsf
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/xmldata
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] Invalid Content-Length
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] Handler for (null) returned invalid result code -3
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/administrator
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/administrator
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/language
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.action
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jira
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/secure
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/owa
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/owa
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.jsp
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/owa
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jbossws
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/invoker
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jbossmq-httpil
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/status
+[Thu Jul 21 16:30:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/servlet
+[Thu Jul 21 16:30:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Thu Jul 21 16:30:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Thu Jul 21 16:30:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/phpmyadmin
+[Thu Jul 21 16:41:18 2016] [error] [client 192.168.237.1] File does not exist: /var/www/test.php
+[Thu Jul 21 16:41:18 2016] [error] [client 192.168.237.1] File does not exist: /usr/share/doc/packages
+[Thu Jul 21 16:41:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/error
+[Thu Jul 21 16:41:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.rpd7
+[Thu Jul 21 16:41:19 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.rpd7
+[Thu Jul 21 16:41:19 2016] [error] [client 192.168.237.1] Invalid Content-Length
+[Thu Jul 21 16:41:19 2016] [error] [client 192.168.237.1] (-3)Unknown error 4294967293: Error reading request entity data
+[Thu Jul 21 16:41:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/docs
+[Thu Jul 21 16:41:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/welcome.html
+[Thu Jul 21 16:41:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.html
+[Thu Jul 21 16:41:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/server-info
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/printenv
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/rpm_query
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/printenv.pl
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/test-cgi
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/phf
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] request failed: error reading the headers
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/struts2-blank
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/struts2-showcase
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.htm
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/flex2gateway
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/flex2gateway
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/conf
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/messagebroker
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats.pl
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/messagebroker
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/blazeds
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/conf
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/blazeds
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/samples
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/bb
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats.pl
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/samples
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/faxsurvey
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/htsearch
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds-samples
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/faxquery
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds-samples
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/htgrep
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/htmlscript
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/test-cgi
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/view-source
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/cgi
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/common
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/data
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/_vti_bin
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/scripts
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/home.tcl
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/~bin
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/AdvWorks
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/php.ini
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/ASPSamp
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/xmlrpc.php
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/phpmyadmin
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/README.txt
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/serendipity
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/serendipity
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/drupal
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jkstatus
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/bblog
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/c99.php
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/blogs
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/xmlsrv
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/xmlrpc
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/script
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.htm
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.html
+[Thu Jul 21 16:41:29 2016] [error] an unknown filter was not added: includes
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.shtml
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/default.htm
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/default.html
+[Thu Jul 21 16:41:29 2016] [error] an unknown filter was not added: includes
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/default.shtml
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.htm
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.html
+[Thu Jul 21 16:41:29 2016] [error] an unknown filter was not added: includes
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.shtml
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/r7.txt
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/r7.txt
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] File does not exist: /var/www/portal
+[Thu Jul 21 16:41:29 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/webcgi
+[Thu Jul 21 16:41:35 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Thu Jul 21 16:41:38 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Fri Jul 22 15:03:51 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Jul 22 15:05:06 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Sat Jul 23 11:30:00 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sat Jul 23 11:32:43 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Sat Jul 23 11:32:43 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1469287968
+[Sat Jul 23 11:32:43 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Sat Jul 23 11:32:44 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Sat Jul 23 11:32:44 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Sat Jul 23 12:26:17 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Sun Jul 24 07:32:38 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sun Jul 24 07:34:35 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Sun Jul 24 07:34:35 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Sun Jul 24 07:34:35 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1469360113
+[Sun Jul 24 07:34:35 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Sun Jul 24 07:34:35 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Sun Jul 24 07:40:17 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Mon Jul 25 15:49:58 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Mon Jul 25 15:53:18 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Tue Jul 26 06:17:55 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Tue Jul 26 06:53:35 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Tue Jul 26 07:46:37 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Tue Jul 26 07:46:38 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Tue Jul 26 07:47:31 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.php.nsx
+[Tue Jul 26 07:47:31 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.php.nsx
+[Tue Jul 26 07:47:31 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.php.bak
+[Tue Jul 26 07:47:31 2016] [error] [client 192.168.237.1] no acceptable variant: /var/www/dvwa/login
+[Tue Jul 26 07:47:31 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.php~
+[Tue Jul 26 07:47:31 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.php.old
+[Tue Jul 26 07:47:31 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.old
+[Tue Jul 26 07:47:31 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.bak
+[Tue Jul 26 07:47:31 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.php.cs
+[Tue Jul 26 07:47:31 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.php.vb
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/Netsparkerf47c1ed0b6454df0bc225b590efc132a
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/Netsparker34e261b3f04b4b599438d0118796cd9e
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/Netsparker8d96e7161c0847faa19769ee90e78489
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/Netsparkerdde14b1f22594cf1b3f64bb09784ea32
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/Netsparker7b9e937cc31a48db8b10c624b0efcad8.php
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/Netsparker440c992a222b4486878ac1c2ee8be4fb.css
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/Netsparker7b7ec5f0c3744cf8b3c59d80dcf084b2
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/cgi-bin
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/Netsparker93a73012e87649ccbca75d31769763c1
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/cgi-sys
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/cgi-bin
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/cgi-sys
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/phpinfo.php
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/phpinfo.php
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/trace.axd
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/Netsparker9deb0a3ae6ab4448ae7dafd284e0423a
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/trace.axd
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/~.aspx
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/~.aspx
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/cgi-bin
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/.svn
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/.svn
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/cgi-sys
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/.git
+[Tue Jul 26 07:47:32 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/.git
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/CVS
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/CVS
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/WS_FTP.log
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/WS_FTP.log
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/trace.axd
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/~.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/config.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/config.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/database.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/.svn
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/database.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/Netsparkerb0b77b723c37430ea43491d17ade76b5
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/session.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/.git
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/session.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/common.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/CVS
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/common.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/Netsparkere63896c399194eee87d471d3df9552c0
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/login.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/WS_FTP.log
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/auth.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/auth.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/config.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/database.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/session.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/common.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin.jsp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin.jsp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/auth.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin.conf
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin.conf
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin.txt
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin.txt
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin.htm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin.htm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin.html
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin.html
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin.pl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin.pl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin.jsp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin.conf
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/axis2
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/axis2
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin.txt
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin.htm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/webservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin.html
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/webservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin.pl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/webservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/webservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/service
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/service
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/axis2
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/services
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/services
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/myservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/myservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/webservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/myservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/myservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/webservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/mywebservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/mywebservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/service
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/mywebservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/mywebservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/services
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/wsdl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/wsdl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/myservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/awstats
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/awstats
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/myservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/backup
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/mywebservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/backup
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/mywebservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/wsdl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin1
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin1
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/manager
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/manager
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/awstats
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/administration
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/administration
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/backup
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/management
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/management
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin1
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/wp-admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/wp-admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/administrator
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/manager
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/administrator
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/root
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/root
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/administration
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/isqlplus
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/management
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/isqlplus
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/iisadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/iisadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/wp-admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/admin_
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/administrator
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/fpadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/admin_
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/webadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/fpadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/root
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/webadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/isqlplus
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/siteadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/iisadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/portaladmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/siteadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/adminadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/portaladmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/admin_
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/fpadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/adm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/adminadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/webadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/sysadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/adm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/sysadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/phpmyadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/siteadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/phpmyadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/portaladmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/cpanel
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/adminadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/cpanel
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/c99.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/Netsparkere0f7040fb56a4f15ae6f98c98f8a128c
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/c99shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/c99.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/adm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/sysadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/cgi-bin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/cmdasp.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/c99shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/Netsparker6417eb08cdad439689195876675b8329
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/cmdasp.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/cgi-sys
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/phpmyadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/nst.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/phpinfo.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/nstview.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/cpanel
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/cgi-bin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/nst.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/nstview.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/c99.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/trace.axd
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/php-backdoor.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/cgi-sys
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/r57.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/~.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/phpinfo.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/php-backdoor.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/c99shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/cmdasp.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/r57eng.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/.svn
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/trace.axd
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/r57.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/~.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/r57eng.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/.git
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/r57shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/nst.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/.svn
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/r57shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/CVS
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/nstview.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/data.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/WS_FTP.log
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/.git
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/php-backdoor.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/data.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/CVS
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/db.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/config.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/r57.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/db.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/WS_FTP.log
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/database.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/test.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/r57eng.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/test.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/config.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/session.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/ipaddress.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/ipaddress.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/r57shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/db1.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/common.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/database.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/db1.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/login.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/session.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/database.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/data.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/database.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/Netsparkera76882a1c7c04a328345e5dc47a82f8f
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/auth.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/common.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/log.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/db.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/log.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/login.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/test.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/auth.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/ipaddress.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/Netsparker511f47ec06444d01b868ab864a2c71da.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/Netsparker15353ed7e60345eab425bfb345b3234d
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/db1.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/cgi-bin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/database.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin.jsp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/log.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/cgi-sys
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin.conf
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/phpinfo.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin.txt
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin.jsp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/trace.axd
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin.htm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin.conf
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/~.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin.html
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin.txt
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/.svn
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin.htm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin.pl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/.git
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin.html
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/CVS
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/axis2
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin.pl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/WS_FTP.log
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/axis2
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/config.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/database.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/session.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/webservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/webservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/webservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/webservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/common.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/service
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/service
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/login.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/services
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/services
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/auth.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/myservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/myservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/myservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/myservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/Netsparkerbf300bfa97904e958d60143c3eda4b63.js
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/mywebservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/mywebservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/mywebservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin.jsp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/mywebservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/wsdl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin.conf
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/wsdl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/awstats
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/awstats
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin.txt
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/backup
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/backup
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin.htm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin.html
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin1
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin1
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin.pl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/manager
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/manager
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/axis2
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/administration
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/administration
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/management
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/management
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/webservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/wp-admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/wp-admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/webservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/administrator
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/administrator
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/service
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/root
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/services
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/root
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/isqlplus
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/isqlplus
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/myservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/iisadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/myservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/iisadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/admin_
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/admin_
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/mywebservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/fpadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/fpadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/mywebservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/webadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/wsdl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/webadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/siteadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/awstats
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/siteadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/portaladmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/adminadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/portaladmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/backup
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/adm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/adminadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/sysadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/adm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin1
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/sysadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/phpmyadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/manager
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/cpanel
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/administration
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/phpmyadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/c99.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/cpanel
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/management
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/wp-admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/c99.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/c99shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/administrator
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/cmdasp.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/c99shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/root
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/cmdasp.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/nst.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/isqlplus
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/nstview.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/iisadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/nst.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/php-backdoor.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/nstview.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/admin_
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/r57.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/php-backdoor.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/fpadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/r57eng.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/webadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/r57shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/r57.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/siteadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/r57eng.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/r57shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/data.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/portaladmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/db.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/adminadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/adm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/test.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/data.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/sysadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/ipaddress.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/phpmyadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/db1.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/db.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/test.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/cpanel
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/database.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/log.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/ipaddress.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/c99.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/db1.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/c99shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/database.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/cmdasp.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/nst.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/Netsparkerfaa608aa3d044251a85e52b51436910f
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPage.inc.php.nsx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPhpIds.inc.php.nsx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/cgi-bin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPage.inc.php.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPhpIds.inc.php.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPage.inc.php~
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/cgi-sys
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPhpIds.inc.php~
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/nstview.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPage.inc.php.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/log.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPhpIds.inc.php.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/phpinfo.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/php-backdoor.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPage.inc.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/trace.axd
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/r57.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPhpIds.inc.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/~.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPage.inc.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPhpIds.inc.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/.svn
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/r57eng.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/Netsparker804177aa671f47ccb29cbfa937159c97.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPage.inc.php.cs
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPhpIds.inc.php.cs
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/r57shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/.git
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPage.inc.php.vb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPhpIds.inc.php.vb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/CVS
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/WS_FTP.log
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/data.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/config.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/db.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/test.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/database.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/session.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/ipaddress.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/common.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/db1.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/database.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/login.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/auth.inc
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/log.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin.aspx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin.jsp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin.conf
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin.txt
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin.htm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin.html
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin.pl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/axis2
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/axis
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/webservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/webservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/service
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/services
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/myservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/myservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/mywebservice
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/mywebservices
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/wsdl
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/awstats
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/backup
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin1
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/manager
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/administration
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/management
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/wp-admin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/administrator
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/root
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/isqlplus
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/iisadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/admin_
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/fpadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/webadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/siteadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/portaladmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/adminadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/adm
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/sysadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/phpmyadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/cpanel
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/c99.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/c99shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/cmdasp.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/nst.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/nstview.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/php-backdoor.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/r57.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/r57eng.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/r57shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/data.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/db.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/test.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/ipaddress.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/db1.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/database.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/log.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php.nsx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php.nsx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php.nsx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php~
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php~
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php~
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php.cs
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php.cs
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php.cs
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php.vb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php.vb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php.vb
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.css'"--><, referer: http://192.168.237.129/dvwa/login.php
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/'"--><
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.css/"ns="netsparker(0x00000C), referer: http://192.168.237.129/dvwa/login.php
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/"ns="netsparker(0x00000B)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.php'"--><
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.css/'ns='netsparker(0x00000F), referer: http://192.168.237.129/dvwa/login.php
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/'ns='netsparker(0x000010)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/ ns=netsparker(0x000012)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.css/ ns=netsparker(0x000013), referer: http://192.168.237.129/dvwa/login.php
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/%22ns%3D%22netsparker%280x000014%29
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.css/%22ns%3D%22netsparker%280x000015%29, referer: http://192.168.237.129/dvwa/login.php
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/'"--><
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/"ns="netsparker(0x00001B)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/'ns='netsparker(0x00001C)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/ ns=netsparker(0x00001D)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/%22ns%3D%22netsparker%280x000020%29
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/help.css'"--><, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/help.css/"ns="netsparker(0x00004B), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/help.css/'ns='netsparker(0x00004F), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/help.css/ ns=netsparker(0x000050), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/help.css/%22ns%3D%22netsparker%280x000053%29, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/'"--><, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/'"--><, referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/"ns="netsparker(0x00006F), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/'ns='netsparker(0x000071), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/"ns="netsparker(0x000072), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/'ns='netsparker(0x000073), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/ ns=netsparker(0x000074), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/ ns=netsparker(0x000076), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/%22ns%3D%22netsparker%280x000077%29, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/%22ns%3D%22netsparker%280x00007A%29, referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/'"--><, referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/"ns="netsparker(0x000088), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/main.css'"--><, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/'ns='netsparker(0x00008B), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/main.css/"ns="netsparker(0x00008C), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/main.css/'ns='netsparker(0x00008F), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/ ns=netsparker(0x00008E), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/main.css/ ns=netsparker(0x000093), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/%22ns%3D%22netsparker%280x000094%29, referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/main.css/%22ns%3D%22netsparker%280x000097%29, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/source.css'"--><, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/source.css/"ns="netsparker(0x00009A), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/source.css/'ns='netsparker(0x00009C), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/source.css/ ns=netsparker(0x00009D), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/source.css/%22ns%3D%22netsparker%280x00009F%29, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/'"--><, referer: http://192.168.237.129/dvwa/dvwa/images/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/"ns="netsparker(0x0000AA), referer: http://192.168.237.129/dvwa/dvwa/images/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/'ns='netsparker(0x0000AD), referer: http://192.168.237.129/dvwa/dvwa/images/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/ ns=netsparker(0x0000AF), referer: http://192.168.237.129/dvwa/dvwa/images/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/%22ns%3D%22netsparker%280x0000B2%29, referer: http://192.168.237.129/dvwa/dvwa/images/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/"ns="netsparker(0x0000B6), referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/'ns='netsparker(0x0000B9), referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/ ns=netsparker(0x0000BB), referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/%22ns%3D%22netsparker%280x0000BD%29, referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPage.inc.php'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPhpIds.inc.php'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/dvwaPage.js'"--><, referer: http://192.168.237.129/dvwa/dvwa/js/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/dvwaPage.js/"ns="netsparker(0x0000E8), referer: http://192.168.237.129/dvwa/dvwa/js/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/dvwaPage.js/'ns='netsparker(0x0000EA), referer: http://192.168.237.129/dvwa/dvwa/js/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/dvwaPage.js/ ns=netsparker(0x0000EC), referer: http://192.168.237.129/dvwa/dvwa/js/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/dvwaPage.js/%22ns%3D%22netsparker%280x0000EE%29, referer: http://192.168.237.129/dvwa/dvwa/js/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/DBMS/
+[Tue Jul 26 07:47:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/DBMS/
+[Tue Jul 26 07:47:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/DBMS/
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/Netsparkerb5e86d88f9c64e7d80553c4d7f856b08
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/cgi-bin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/cgi-sys
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/phpinfo.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/trace.axd
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/~.aspx
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/.svn
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/.git
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/CVS
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/WS_FTP.log
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/config.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/database.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/session.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/common.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/login.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/auth.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.asp
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.aspx
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.jsp
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.conf
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.txt
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.htm
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.html
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.pl
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/axis
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/axis2
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/axis
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/webservice
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/webservices
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/service
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/services
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/myservice
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/myservices
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/mywebservice
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/mywebservices
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/wsdl
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/awstats
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/backup
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin1
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/manager
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/administration
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/management
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/wp-admin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/administrator
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/root
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/isqlplus
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/iisadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin_
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/fpadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/webadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/siteadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/portaladmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/adminadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/adm
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/sysadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/phpmyadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/cpanel
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/c99.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/c99shell.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/cmdasp.asp
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/nst.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/nstview.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/php-backdoor.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/r57.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/r57eng.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/r57shell.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/shell.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/data.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/db.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/test.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/ipaddress.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/db1.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/database.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/log.mdb
+[Tue Jul 26 07:54:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/'"--><
+[Tue Jul 26 07:54:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/"ns="netsparker(0x000005)
+[Tue Jul 26 07:54:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/'ns='netsparker(0x000006)
+[Tue Jul 26 07:54:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/ ns=netsparker(0x000007)
+[Tue Jul 26 07:54:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/%22ns%3D%22netsparker%280x000008%29
+[Tue Jul 26 08:05:34 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Tue Jul 26 13:37:32 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Tue Jul 26 15:21:13 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Wed Jul 27 07:31:16 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Thu Jul 28 03:09:54 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Thu Jul 28 03:13:24 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Thu Jul 28 03:13:24 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1469690007
+[Thu Jul 28 03:13:25 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Thu Jul 28 03:13:26 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Thu Jul 28 03:13:27 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Thu Jul 28 03:16:40 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1469690206
+[Thu Jul 28 03:16:40 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Thu Jul 28 03:16:40 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Thu Jul 28 03:16:42 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Thu Jul 28 03:16:42 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Thu Jul 28 03:20:18 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Sun Jul 31 12:22:34 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sun Jul 31 12:23:01 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Sun Jul 31 12:23:01 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Sun Jul 31 12:58:34 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Wed Aug 03 14:04:29 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Aug 03 14:06:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Thu Aug 04 06:06:43 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Aug 05 02:21:44 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Aug 05 02:25:04 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Thu Aug 11 01:34:22 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Aug 12 02:28:57 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Aug 12 02:38:07 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Fri Aug 12 02:40:43 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Aug 12 02:45:57 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Fri Aug 12 02:55:07 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sun Aug 14 15:40:16 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sun Aug 14 15:44:31 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Sun Aug 14 16:37:15 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Sep 21 14:46:27 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Sep 21 14:50:03 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Wed Sep 21 15:10:15 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Wed Sep 21 15:10:15 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Wed Sep 21 15:10:15 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1474485031
+[Wed Sep 21 15:10:16 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Wed Sep 21 15:10:16 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Wed Sep 21 15:22:23 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Sat Oct 01 16:45:02 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sat Oct 01 16:51:35 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Sat Oct 01 16:51:36 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1475355100
+[Sat Oct 01 16:51:36 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Sat Oct 01 16:51:36 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Sat Oct 01 16:51:36 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Sat Oct 01 17:01:47 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Sat Oct 01 17:01:48 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1475355718
+[Sat Oct 01 17:01:48 2016] [error] [client 192.168.237.128] Invalid URI in request t3 12.1.2
+[Sat Oct 01 17:01:48 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Sat Oct 01 17:01:48 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Sat Oct 01 17:01:48 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Mon Oct 03 17:37:32 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Mon Oct 03 17:48:40 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Tue Oct 04 15:23:51 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Tue Oct 04 15:37:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/Rapid7
+[Tue Oct 04 15:37:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.jsp
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.cfm
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.nsf
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/reviews
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/xmldata
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] Invalid Content-Length
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] Handler for (null) returned invalid result code -3
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/administrator
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.action
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/administrator
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/language
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/owa
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/owa
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/owa
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jira
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/php
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/secure
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.jsp
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jbossws
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/invoker
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jbossmq-httpil
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/status
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/servlet
+[Tue Oct 04 15:38:59 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Tue Oct 04 15:38:59 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Tue Oct 04 15:38:59 2016] [error] [client 192.168.237.1] File does not exist: /var/www/phpmyadmin
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/test.php
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /usr/share/doc/packages
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.rpd7
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/error
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.rpd7
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] Invalid Content-Length
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] (-3)Unknown error 4294967293: Error reading request entity data
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/server-info
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/printenv
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/test-cgi
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/rpm_query
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/printenv.pl
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/phf
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] request failed: error reading the headers
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/docs
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/struts2-showcase
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/struts2-blank
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/welcome.html
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/conf
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.html
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.htm
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/conf
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/flex2gateway
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats.pl
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats.pl
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/flex2gateway
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/messagebroker
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/bb
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/faxsurvey
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/messagebroker
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/faxquery
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/htgrep
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/blazeds
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/htsearch
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/htmlscript
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/blazeds
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/samples
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/test-cgi
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/view-source
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/samples
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds-samples
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds-samples
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/data
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/_vti_bin
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/cgi
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/~bin
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/scripts
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/common
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/home.tcl
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/php.ini
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/AdvWorks
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/phpmyadmin
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/xmlrpc.php
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jkstatus
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/README.txt
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/serendipity
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/ASPSamp
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/serendipity
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/c99.php
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/drupal
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/bblog
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/blogs
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/xmlsrv
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/xmlrpc
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/script
+[Tue Oct 04 15:40:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.htm
+[Tue Oct 04 15:40:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.html
+[Tue Oct 04 15:40:35 2016] [error] an unknown filter was not added: includes
+[Tue Oct 04 15:40:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.shtml
+[Tue Oct 04 15:40:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/default.htm
+[Tue Oct 04 15:40:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/default.html
+[Tue Oct 04 15:40:35 2016] [error] an unknown filter was not added: includes
+[Tue Oct 04 15:40:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/default.shtml
+[Tue Oct 04 15:40:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.htm
+[Tue Oct 04 15:40:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.html
+[Tue Oct 04 15:40:37 2016] [error] an unknown filter was not added: includes
+[Tue Oct 04 15:40:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.shtml
+[Tue Oct 04 15:40:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/r7.txt
+[Tue Oct 04 15:40:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/r7.txt
+[Tue Oct 04 15:40:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/portal
+[Tue Oct 04 15:40:37 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/webcgi
+[Sat Oct 08 07:10:42 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sat Oct 08 07:45:42 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Sat Oct 08 07:49:09 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Sat Oct 08 07:57:50 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Sat Oct 08 08:03:47 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sat Oct 08 08:05:46 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Sat Oct 08 08:08:56 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Sat Oct 08 09:33:22 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sat Oct 08 09:42:11 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Mon Oct 10 02:37:45 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Mon Oct 10 02:49:56 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Mon Oct 10 02:53:45 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Tue Oct 11 17:53:34 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Tue Oct 11 18:05:52 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Tue Oct 11 18:08:46 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Tue Oct 11 18:21:23 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Wed Oct 12 12:18:13 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Oct 12 12:19:27 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Thu Oct 13 17:30:48 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Thu Oct 13 17:39:50 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Thu Oct 13 17:41:13 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Thu Oct 13 17:42:37 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Thu Oct 13 17:43:33 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Fri Oct 14 03:21:22 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Oct 14 03:22:56 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Fri Oct 14 03:29:48 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Fri Oct 14 04:17:50 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Sat Dec 17 07:05:41 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sat Dec 17 07:07:38 2016] [error] [client 192.168.237.141] File does not exist: /var/www/favicon.ico
+[Sat Dec 17 07:07:40 2016] [error] [client 192.168.237.141] File does not exist: /var/www/favicon.ico
+[Sat Dec 17 07:11:23 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Mon Dec 26 14:06:17 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Mon Dec 26 14:09:39 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Sat Jan 07 04:20:07 2017] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sat Jan 07 04:23:30 2017] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Sat Jan 07 04:30:10 2017] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico
+[Sat Jan 07 04:30:10 2017] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico
+[Wed Jan 18 13:24:04 2017] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Jan 18 13:27:27 2017] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Wed Jan 18 13:27:44 2017] [error] [client 192.168.237.1] File does not exist: /var/www/p, referer: http://192.168.237.129/twiki/TWikiDocumentation.html
+[Wed Jan 18 13:27:44 2017] [error] [client 192.168.237.1] File does not exist: /var/www/p, referer: http://192.168.237.129/twiki/TWikiDocumentation.html
+[Wed Jan 18 13:27:44 2017] [error] [client 192.168.237.1] File does not exist: /var/www/p, referer: http://192.168.237.129/twiki/TWikiDocumentation.html
+[Wed Jan 18 13:49:54 2017] [error] [client 192.168.237.1] File does not exist: /var/www/cypwn_{canyoupwnme_log}
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/phpmyadmin
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/cpanel
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/c99.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/c99shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/cmdasp.asp
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/nst.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/nstview.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/php-backdoor.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/r57.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/r57eng.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/r57shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/shell.php
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/data.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/db.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/test.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/ipaddress.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/db1.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/database.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/log.mdb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php.nsx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php.nsx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php.nsx
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php~
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php~
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php~
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.old
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.bak
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php.cs
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php.cs
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php.cs
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php.vb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php.vb
+[Tue Jul 26 07:47:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php.vb
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.css'"--><, referer: http://192.168.237.129/dvwa/login.php
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/'"--><
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.css/"ns="netsparker(0x00000C), referer: http://192.168.237.129/dvwa/login.php
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/"ns="netsparker(0x00000B)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/login.php'"--><
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.css/'ns='netsparker(0x00000F), referer: http://192.168.237.129/dvwa/login.php
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/'ns='netsparker(0x000010)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/ ns=netsparker(0x000012)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.css/ ns=netsparker(0x000013), referer: http://192.168.237.129/dvwa/login.php
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/%22ns%3D%22netsparker%280x000014%29
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/login.css/%22ns%3D%22netsparker%280x000015%29, referer: http://192.168.237.129/dvwa/login.php
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/'"--><
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/"ns="netsparker(0x00001B)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/'ns='netsparker(0x00001C)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/ ns=netsparker(0x00001D)
+[Tue Jul 26 07:47:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/%22ns%3D%22netsparker%280x000020%29
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/help.css'"--><, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/help.css/"ns="netsparker(0x00004B), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/help.css/'ns='netsparker(0x00004F), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/help.css/ ns=netsparker(0x000050), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/help.css/%22ns%3D%22netsparker%280x000053%29, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/'"--><, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/'"--><, referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/"ns="netsparker(0x00006F), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/'ns='netsparker(0x000071), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/"ns="netsparker(0x000072), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/'ns='netsparker(0x000073), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/ ns=netsparker(0x000074), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/ ns=netsparker(0x000076), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/%22ns%3D%22netsparker%280x000077%29, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/%22ns%3D%22netsparker%280x00007A%29, referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/'"--><, referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/"ns="netsparker(0x000088), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/main.css'"--><, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/'ns='netsparker(0x00008B), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/main.css/"ns="netsparker(0x00008C), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/main.css/'ns='netsparker(0x00008F), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/ ns=netsparker(0x00008E), referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/main.css/ ns=netsparker(0x000093), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/%22ns%3D%22netsparker%280x000094%29, referer: http://192.168.237.129/dvwa/dvwa/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/main.css/%22ns%3D%22netsparker%280x000097%29, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/source.css'"--><, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/source.css/"ns="netsparker(0x00009A), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/source.css/'ns='netsparker(0x00009C), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/source.css/ ns=netsparker(0x00009D), referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/css/source.css/%22ns%3D%22netsparker%280x00009F%29, referer: http://192.168.237.129/dvwa/dvwa/css/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/'"--><, referer: http://192.168.237.129/dvwa/dvwa/images/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/"ns="netsparker(0x0000AA), referer: http://192.168.237.129/dvwa/dvwa/images/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/'ns='netsparker(0x0000AD), referer: http://192.168.237.129/dvwa/dvwa/images/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/ ns=netsparker(0x0000AF), referer: http://192.168.237.129/dvwa/dvwa/images/
+[Tue Jul 26 07:47:35 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/images/%22ns%3D%22netsparker%280x0000B2%29, referer: http://192.168.237.129/dvwa/dvwa/images/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/"ns="netsparker(0x0000B6), referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/'ns='netsparker(0x0000B9), referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/ ns=netsparker(0x0000BB), referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/%22ns%3D%22netsparker%280x0000BD%29, referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPage.inc.php'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/dvwaPhpIds.inc.php'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/dvwaPage.js'"--><, referer: http://192.168.237.129/dvwa/dvwa/js/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/dvwaPage.js/"ns="netsparker(0x0000E8), referer: http://192.168.237.129/dvwa/dvwa/js/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/dvwaPage.js/'ns='netsparker(0x0000EA), referer: http://192.168.237.129/dvwa/dvwa/js/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/dvwaPage.js/ ns=netsparker(0x0000EC), referer: http://192.168.237.129/dvwa/dvwa/js/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/js/dvwaPage.js/%22ns%3D%22netsparker%280x0000EE%29, referer: http://192.168.237.129/dvwa/dvwa/js/
+[Tue Jul 26 07:47:36 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/DBMS.php'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/DBMS/
+[Tue Jul 26 07:47:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/MySQL.php'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/DBMS/
+[Tue Jul 26 07:47:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/dvwa/includes/DBMS/PGSQL.php'"--><, referer: http://192.168.237.129/dvwa/dvwa/includes/DBMS/
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/Netsparkerb5e86d88f9c64e7d80553c4d7f856b08
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/cgi-bin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/cgi-sys
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/phpinfo.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/trace.axd
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/~.aspx
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/.svn
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/.git
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/CVS
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/WS_FTP.log
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/config.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/database.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/session.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/common.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/login.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/auth.inc
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.asp
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.aspx
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.jsp
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.conf
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.txt
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.htm
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.html
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin.pl
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/axis
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/axis2
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/axis
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/webservice
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/webservices
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/service
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/services
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/myservice
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/myservices
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/mywebservice
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/mywebservices
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/wsdl
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/awstats
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/backup
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin1
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/manager
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/administration
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/management
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/wp-admin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/administrator
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/root
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/isqlplus
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/iisadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/admin_
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/fpadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/webadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/siteadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/portaladmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/adminadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/adm
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/sysadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/phpmyadmin
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/cpanel
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/c99.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/c99shell.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/cmdasp.asp
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/nst.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/nstview.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/php-backdoor.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/r57.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/r57eng.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/r57shell.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/shell.php
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/data.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/db.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/test.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/ipaddress.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/db1.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/database.mdb
+[Tue Jul 26 07:54:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/log.mdb
+[Tue Jul 26 07:54:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/'"--><
+[Tue Jul 26 07:54:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/"ns="netsparker(0x000005)
+[Tue Jul 26 07:54:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/'ns='netsparker(0x000006)
+[Tue Jul 26 07:54:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/ ns=netsparker(0x000007)
+[Tue Jul 26 07:54:30 2016] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/vulnerabilities/sqli/%22ns%3D%22netsparker%280x000008%29
+[Tue Jul 26 08:05:34 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Tue Jul 26 13:37:32 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Tue Jul 26 15:21:13 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Wed Jul 27 07:31:16 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Thu Jul 28 03:09:54 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Thu Jul 28 03:13:24 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Thu Jul 28 03:13:24 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1469690007
+[Thu Jul 28 03:13:25 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Thu Jul 28 03:13:26 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Thu Jul 28 03:13:27 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Thu Jul 28 03:16:40 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1469690206
+[Thu Jul 28 03:16:40 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Thu Jul 28 03:16:40 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Thu Jul 28 03:16:42 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Thu Jul 28 03:16:42 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Thu Jul 28 03:20:18 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Sun Jul 31 12:22:34 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sun Jul 31 12:23:01 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Sun Jul 31 12:23:01 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Sun Jul 31 12:58:34 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Wed Aug 03 14:04:29 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Aug 03 14:06:28 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Thu Aug 04 06:06:43 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Aug 05 02:21:44 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Aug 05 02:25:04 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Thu Aug 11 01:34:22 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Aug 12 02:28:57 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Aug 12 02:38:07 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Fri Aug 12 02:40:43 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Fri Aug 12 02:45:57 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Fri Aug 12 02:55:07 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sun Aug 14 15:40:16 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sun Aug 14 15:44:31 2016] [error] [client 192.168.237.132] File does not exist: /var/www/favicon.ico
+[Sun Aug 14 16:37:15 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Sep 21 14:46:27 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Sep 21 14:50:03 2016] [error] [client 192.168.237.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.237.129/
+[Wed Sep 21 15:10:15 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Wed Sep 21 15:10:15 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Wed Sep 21 15:10:15 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1474485031
+[Wed Sep 21 15:10:16 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Wed Sep 21 15:10:16 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Wed Sep 21 15:22:23 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Sat Oct 01 16:45:02 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Sat Oct 01 16:51:35 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Sat Oct 01 16:51:36 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1475355100
+[Sat Oct 01 16:51:36 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Sat Oct 01 16:51:36 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Sat Oct 01 16:51:36 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Sat Oct 01 17:01:47 2016] [error] [client 192.168.237.128] File does not exist: /var/www/.git
+[Sat Oct 01 17:01:48 2016] [error] [client 192.168.237.128] File does not exist: /var/www/nmaplowercheck1475355718
+[Sat Oct 01 17:01:48 2016] [error] [client 192.168.237.128] Invalid URI in request t3 12.1.2
+[Sat Oct 01 17:01:48 2016] [error] [client 192.168.237.128] File does not exist: /var/www/HNAP1
+[Sat Oct 01 17:01:48 2016] [error] [client 192.168.237.128] File does not exist: /var/www/robots.txt
+[Sat Oct 01 17:01:48 2016] [error] [client 192.168.237.128] File does not exist: /var/www/favicon.ico
+[Mon Oct 03 17:37:32 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Mon Oct 03 17:48:40 2016] [notice] caught SIGWINCH, shutting down gracefully
+[Tue Oct 04 15:23:51 2016] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Tue Oct 04 15:37:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/Rapid7
+[Tue Oct 04 15:37:37 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.jsp
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.cfm
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.nsf
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/reviews
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/xmldata
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] Invalid Content-Length
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] Handler for (null) returned invalid result code -3
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/administrator
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.action
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/administrator
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/language
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/owa
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/owa
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/owa
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jira
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/php
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/secure
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/login.jsp
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jbossws
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/invoker
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jbossmq-httpil
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/status
+[Tue Oct 04 15:38:52 2016] [error] [client 192.168.237.1] File does not exist: /var/www/servlet
+[Tue Oct 04 15:38:59 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Tue Oct 04 15:38:59 2016] [error] [client 192.168.237.1] File does not exist: /var/www/console
+[Tue Oct 04 15:38:59 2016] [error] [client 192.168.237.1] File does not exist: /var/www/phpmyadmin
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/test.php
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /usr/share/doc/packages
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.rpd7
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/error
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/spiffymcgee.rpd7
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] Invalid Content-Length
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] (-3)Unknown error 4294967293: Error reading request entity data
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/server-info
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/printenv
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/test-cgi
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/rpm_query
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/printenv.pl
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/phf
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] request failed: error reading the headers
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/docs
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/struts2-showcase
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/struts2-blank
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/welcome.html
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/conf
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.html
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/index.htm
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/conf
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/flex2gateway
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats.pl
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats.pl
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/flex2gateway
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] File does not exist: /var/www/messagebroker
+[Tue Oct 04 15:40:33 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/awstats
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/bb
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/faxsurvey
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/messagebroker
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/faxquery
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/htgrep
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/blazeds
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/htsearch
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/htmlscript
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/blazeds
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/samples
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/test-cgi
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/view-source
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/samples
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds-samples
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/lcds-samples
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] client denied by server configuration: /var/www/server-status
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/CFIDE
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/data
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/_vti_bin
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/cgi
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/~bin
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/scripts
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/common
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/home.tcl
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] script not found or unable to stat: /usr/lib/cgi-bin/php.ini
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/AdvWorks
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/phpmyadmin
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/xmlrpc.php
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/jkstatus
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/README.txt
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/serendipity
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/ASPSamp
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/serendipity
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/c99.php
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/drupal
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/bblog
+[Tue Oct 04 15:40:34 2016] [error] [client 192.168.237.1] File does not exist: /var/www/blogs
+[Wed Jan 18 13:54:26 2017] [error] [client 192.168.237.1] File does not exist: /var/www/lagbul
+[Wed Jan 18 13:54:31 2017] [error] [client 192.168.237.1] File does not exist: /var/www/flagbul
+[Wed Jan 18 13:54:38 2017] [error] [client 192.168.237.1] File does not exist: /var/www/aramal\xc4\xb1s\xc4\xb1n
+[Wed Jan 18 13:54:49 2017] [error] [client 192.168.237.1] File does not exist: /var/www/ctf
+[Wed Jan 18 13:55:37 2017] [error] [client 192.168.237.1] File does not exist: /var/www/dvwa/noluyor
+[Wed Jan 18 13:56:46 2017] [error] [client 192.168.237.1] File does not exist: /var/www/flag\xc4\xb1_bulmal\xc4\xb1s\xc4\xb1n

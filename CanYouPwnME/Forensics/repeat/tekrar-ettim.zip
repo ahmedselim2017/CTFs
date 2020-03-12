@@ -1,0 +1,24 @@
+root:$6$p2laXTfI5mY2bHO4$K/o9TAb2P2dUtI1.ZMg0b47pR2qHNQcax1kuAUKGI3xdBs3gtFd1hh1WodOzTi6vgOgf1cVC9tnXBk28aLvVe0:0:0::/root:/bin/bash
+bin:!!:1:1::/:/usr/bin/nologin
+daemon:!!:2:2::/:/usr/bin/nologin
+mail:!!:8:12::/var/spool/mail:/usr/bin/nologin
+ftp:!!:14:11::/srv/ftp:/usr/bin/nologin
+http:!!:33:33::/srv/http:/usr/bin/nologin
+nobody:!!:65534:65534:Nobody:/:/usr/bin/nologin
+dbus:!!:81:81:System Message Bus:/:/usr/bin/nologin
+systemd-journal-remote:!!:982:982:systemd Journal Remote:/:/usr/bin/nologin
+systemd-network:!!:981:981:systemd Network Management:/:/usr/bin/nologin
+systemd-resolve:!!:980:980:systemd Resolver:/:/usr/bin/nologin
+systemd-timesync:!!:979:979:systemd Time Synchronization:/:/usr/bin/nologin
+systemd-coredump:!!:978:978:systemd Core Dumper:/:/usr/bin/nologin
+uuidd:!!:68:68::/:/usr/bin/nologin
+polkitd:!!:102:102:PolicyKit daemon:/:/usr/bin/nologin
+tozkoparan:$6$Or7tLUIFRb.HqqE2$DwKourVXcUttUGcObzlW65Hq71oELxoqOlikTp0tHhdXl5/XXMgC8CVn.xSKbSO9I5GL0FEN.DxElnaVHLxpC1:1000:985::/home/tozkoparan:/bin/zsh
+git:!!:977:977:git daemon user:/:/usr/bin/git-shell
+rtkit:!!:133:133:RealtimeKit:/proc:/usr/bin/nologin
+avahi:!!:976:976:Avahi mDNS/DNS-SD daemon:/:/usr/bin/nologin
+colord:!!:975:975:Color management daemon:/var/lib/colord:/usr/bin/nologin
+geoclue:!!:974:974:Geoinformation service:/var/lib/geoclue:/usr/bin/nologin
+cups:!!:209:209:cups helper user:/:/usr/bin/nologin
+mpd:!!:45:45::/var/lib/mpd:/usr/bin/nologin
+flatpak:!!:973:973:Flatpak system helper:/:/usr/bin/nologin
