@@ -1,1 +1,1 @@
-actf{proof by triviality}
+actf{proof_by_triviality}
