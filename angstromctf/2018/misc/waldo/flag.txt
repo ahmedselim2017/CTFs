@@ -1,0 +1,1 @@
+actf{there_is_no_collusion_(between_teams)}
