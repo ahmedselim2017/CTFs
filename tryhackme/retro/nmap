@@ -1,0 +1,14 @@
+# Nmap 7.80 scan initiated Wed May  6 16:19:38 2020 as: nmap -Pn -sV -p- -vv -oN nmap 10.10.28.35
+Nmap scan report for 10.10.28.35
+Host is up, received user-set (0.072s latency).
+Scanned at 2020-05-06 16:19:38 +03 for 197s
+Not shown: 65533 filtered ports
+Reason: 65533 no-responses
+PORT     STATE SERVICE       REASON          VERSION
+80/tcp   open  http          syn-ack ttl 127 Microsoft IIS httpd 10.0
+3389/tcp open  ms-wbt-server syn-ack ttl 127 Microsoft Terminal Services
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed May  6 16:22:55 2020 -- 1 IP address (1 host up) scanned in 197.35 seconds
