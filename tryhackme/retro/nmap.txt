@@ -1,5 +1,0 @@
-# Nmap 7.80 scan initiated Wed May  6 16:19:15 2020 as: nmap -Pn -sV -p- -vv -oN nmap.txt http://10.10.28.35/
-Unable to split netmask from target expression: "http://10.10.28.35/"
-Read data files from: /usr/bin/../share/nmap
-WARNING: No targets were specified, so 0 hosts scanned.
-# Nmap done at Wed May  6 16:19:16 2020 -- 0 IP addresses (0 hosts up) scanned in 0.36 seconds
